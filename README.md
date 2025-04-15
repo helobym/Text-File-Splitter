@@ -2,3 +2,6 @@ Introducing our Text File Splitter for Windows – the ultimate tool for effortl
 
 demo video:
 https://www.youtube.com/watch?v=KbYM8dEnw8w
+
+
+![Screenshot Preview](text file splitter screenshot.png)
