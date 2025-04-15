@@ -4,4 +4,4 @@ demo video:
 https://www.youtube.com/watch?v=KbYM8dEnw8w
 
 
-![Screenshot Preview](text file splitter screenshot.png)
+![Screenshot Preview](https://raw.githubusercontent.com/helobym/Text-File-Splitter/refs/heads/main/text%20file%20splitter%20screenshot.png)
